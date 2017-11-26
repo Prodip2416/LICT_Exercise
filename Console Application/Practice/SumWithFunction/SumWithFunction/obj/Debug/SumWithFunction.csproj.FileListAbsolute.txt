@@ -1,0 +1,5 @@
+E:\LICT\SadiaAssignment\SumWithFunction\SumWithFunction\bin\Debug\SumWithFunction.exe.config
+E:\LICT\SadiaAssignment\SumWithFunction\SumWithFunction\bin\Debug\SumWithFunction.exe
+E:\LICT\SadiaAssignment\SumWithFunction\SumWithFunction\bin\Debug\SumWithFunction.pdb
+E:\LICT\SadiaAssignment\SumWithFunction\SumWithFunction\obj\Debug\SumWithFunction.exe
+E:\LICT\SadiaAssignment\SumWithFunction\SumWithFunction\obj\Debug\SumWithFunction.pdb

@@ -1,0 +1,5 @@
+E:\LICT\SadiaAssignment\PrintOddNumber\PrintOddNumber\bin\Debug\PrintOddNumber.exe.config
+E:\LICT\SadiaAssignment\PrintOddNumber\PrintOddNumber\bin\Debug\PrintOddNumber.exe
+E:\LICT\SadiaAssignment\PrintOddNumber\PrintOddNumber\bin\Debug\PrintOddNumber.pdb
+E:\LICT\SadiaAssignment\PrintOddNumber\PrintOddNumber\obj\Debug\PrintOddNumber.exe
+E:\LICT\SadiaAssignment\PrintOddNumber\PrintOddNumber\obj\Debug\PrintOddNumber.pdb

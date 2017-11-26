@@ -1,0 +1,6 @@
+E:\LICT\SadiaAssignment\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+E:\LICT\SadiaAssignment\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+E:\LICT\SadiaAssignment\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+E:\LICT\SadiaAssignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
+E:\LICT\SadiaAssignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+E:\LICT\SadiaAssignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb

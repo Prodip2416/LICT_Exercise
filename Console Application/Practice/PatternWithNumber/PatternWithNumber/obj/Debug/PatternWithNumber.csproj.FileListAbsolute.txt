@@ -1,0 +1,5 @@
+E:\LICT\SadiaAssignment\PatternWithNumber\PatternWithNumber\bin\Debug\PatternWithNumber.exe.config
+E:\LICT\SadiaAssignment\PatternWithNumber\PatternWithNumber\bin\Debug\PatternWithNumber.exe
+E:\LICT\SadiaAssignment\PatternWithNumber\PatternWithNumber\bin\Debug\PatternWithNumber.pdb
+E:\LICT\SadiaAssignment\PatternWithNumber\PatternWithNumber\obj\Debug\PatternWithNumber.exe
+E:\LICT\SadiaAssignment\PatternWithNumber\PatternWithNumber\obj\Debug\PatternWithNumber.pdb

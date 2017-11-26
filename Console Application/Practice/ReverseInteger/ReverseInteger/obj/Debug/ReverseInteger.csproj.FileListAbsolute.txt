@@ -1,0 +1,5 @@
+E:\LICT\SadiaAssignment\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.exe.config
+E:\LICT\SadiaAssignment\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.exe
+E:\LICT\SadiaAssignment\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.pdb
+E:\LICT\SadiaAssignment\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.exe
+E:\LICT\SadiaAssignment\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.pdb
