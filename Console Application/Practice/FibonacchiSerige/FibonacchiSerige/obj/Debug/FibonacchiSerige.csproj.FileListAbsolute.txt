@@ -1,0 +1,5 @@
+E:\LICT\SadiaAssignment\FibonacchiSerige\FibonacchiSerige\bin\Debug\FibonacchiSerige.exe.config
+E:\LICT\SadiaAssignment\FibonacchiSerige\FibonacchiSerige\bin\Debug\FibonacchiSerige.exe
+E:\LICT\SadiaAssignment\FibonacchiSerige\FibonacchiSerige\bin\Debug\FibonacchiSerige.pdb
+E:\LICT\SadiaAssignment\FibonacchiSerige\FibonacchiSerige\obj\Debug\FibonacchiSerige.exe
+E:\LICT\SadiaAssignment\FibonacchiSerige\FibonacchiSerige\obj\Debug\FibonacchiSerige.pdb

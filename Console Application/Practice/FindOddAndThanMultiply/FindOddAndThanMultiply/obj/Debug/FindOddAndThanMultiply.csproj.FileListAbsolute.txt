@@ -1,0 +1,6 @@
+E:\LICT\SadiaAssignment\FindOddAndThanMultiply\FindOddAndThanMultiply\bin\Debug\FindOddAndThanMultiply.exe.config
+E:\LICT\SadiaAssignment\FindOddAndThanMultiply\FindOddAndThanMultiply\bin\Debug\FindOddAndThanMultiply.exe
+E:\LICT\SadiaAssignment\FindOddAndThanMultiply\FindOddAndThanMultiply\bin\Debug\FindOddAndThanMultiply.pdb
+E:\LICT\SadiaAssignment\FindOddAndThanMultiply\FindOddAndThanMultiply\obj\Debug\FindOddAndThanMultiply.exe
+E:\LICT\SadiaAssignment\FindOddAndThanMultiply\FindOddAndThanMultiply\obj\Debug\FindOddAndThanMultiply.pdb
+E:\LICT\SadiaAssignment\FindOddAndThanMultiply\FindOddAndThanMultiply\obj\Debug\FindOddAndThanMultiply.csprojResolveAssemblyReference.cache

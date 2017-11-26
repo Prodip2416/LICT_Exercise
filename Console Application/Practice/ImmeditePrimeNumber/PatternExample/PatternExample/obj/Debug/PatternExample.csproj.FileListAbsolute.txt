@@ -1,0 +1,6 @@
+E:\LICT\SadiaAssignment\ImmeditePrimeNumber\PatternExample\PatternExample\bin\Debug\PatternExample.exe.config
+E:\LICT\SadiaAssignment\ImmeditePrimeNumber\PatternExample\PatternExample\bin\Debug\PatternExample.exe
+E:\LICT\SadiaAssignment\ImmeditePrimeNumber\PatternExample\PatternExample\bin\Debug\PatternExample.pdb
+E:\LICT\SadiaAssignment\ImmeditePrimeNumber\PatternExample\PatternExample\obj\Debug\PatternExample.csprojResolveAssemblyReference.cache
+E:\LICT\SadiaAssignment\ImmeditePrimeNumber\PatternExample\PatternExample\obj\Debug\PatternExample.exe
+E:\LICT\SadiaAssignment\ImmeditePrimeNumber\PatternExample\PatternExample\obj\Debug\PatternExample.pdb

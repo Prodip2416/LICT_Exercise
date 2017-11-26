@@ -1,0 +1,5 @@
+E:\LICT\SadiaAssignment\PatternExampleWithStat\PatternExampleWithStat\bin\Debug\PatternExampleWithStat.exe.config
+E:\LICT\SadiaAssignment\PatternExampleWithStat\PatternExampleWithStat\bin\Debug\PatternExampleWithStat.exe
+E:\LICT\SadiaAssignment\PatternExampleWithStat\PatternExampleWithStat\bin\Debug\PatternExampleWithStat.pdb
+E:\LICT\SadiaAssignment\PatternExampleWithStat\PatternExampleWithStat\obj\Debug\PatternExampleWithStat.exe
+E:\LICT\SadiaAssignment\PatternExampleWithStat\PatternExampleWithStat\obj\Debug\PatternExampleWithStat.pdb

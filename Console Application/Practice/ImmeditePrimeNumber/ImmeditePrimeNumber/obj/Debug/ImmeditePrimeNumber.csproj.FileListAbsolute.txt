@@ -1,0 +1,5 @@
+E:\LICT\SadiaAssignment\ImmeditePrimeNumber\ImmeditePrimeNumber\bin\Debug\ImmeditePrimeNumber.exe.config
+E:\LICT\SadiaAssignment\ImmeditePrimeNumber\ImmeditePrimeNumber\bin\Debug\ImmeditePrimeNumber.exe
+E:\LICT\SadiaAssignment\ImmeditePrimeNumber\ImmeditePrimeNumber\bin\Debug\ImmeditePrimeNumber.pdb
+E:\LICT\SadiaAssignment\ImmeditePrimeNumber\ImmeditePrimeNumber\obj\Debug\ImmeditePrimeNumber.exe
+E:\LICT\SadiaAssignment\ImmeditePrimeNumber\ImmeditePrimeNumber\obj\Debug\ImmeditePrimeNumber.pdb
