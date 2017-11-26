@@ -1,0 +1,6 @@
+E:\LICT\Class_002\BJ_09\BJ_09\bin\Debug\BJ_09.exe.config
+E:\LICT\Class_002\BJ_09\BJ_09\bin\Debug\BJ_09.exe
+E:\LICT\Class_002\BJ_09\BJ_09\bin\Debug\BJ_09.pdb
+E:\LICT\Class_002\BJ_09\BJ_09\obj\Debug\BJ_09.csprojResolveAssemblyReference.cache
+E:\LICT\Class_002\BJ_09\BJ_09\obj\Debug\BJ_09.exe
+E:\LICT\Class_002\BJ_09\BJ_09\obj\Debug\BJ_09.pdb
