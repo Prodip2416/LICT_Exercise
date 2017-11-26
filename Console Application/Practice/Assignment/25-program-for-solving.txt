@@ -1,0 +1,63 @@
+
+Programs:
+ 
+1.find the immediate next prime number
+ for eg: input:9
+            output:11
+            hint was given: input will not exceed 100
+ 
+2.find the number of even numbers repeating
+for eg: input:{2,2,3,3,4,4}
+           output:2
+          check for this input also ....output for {8,8,4,4,4,2,5,5} is 2
+          even numbers 8 and 4 are repeating.. so output is 2
+ 
+4.input ll be a number
+  find the product of odd digits and even digits seperately
+  sum the products
+  if all the digits are odd or even add 1 to the sum 
+  
+
+8. write a program to print second largest divisor of the given number
+   eg:input=21  divisors are {1,3,7,21}
+   output=7
+9.write a program  to find factorial of individual digits in a given input number and store it in an array
+  eg:123
+  output={1,4,9}
+10.swap to print only non intersecting elements from the two given arrays. size of both input arrays is equal.
+  eg:input1={1,2,3,4,5}
+     input2={2,3,6,7,8}
+     output={1,4,5,6,7,8}
+ 
+11.write a program to print the elements in first array which is not present in second array.size of both input arrays is equal.
+  eg:input1={11,12,13,14,15}
+     input2={11,13,2,3,4}
+     output={12,14,15}
+
+12. write a armstrong program  between two ranges and find largest one in that.
+
+
+13.write a program for delete  -ve elemts in array and sum positive ones
+  br: store -2 if all r -ve elemts,store -1 if size -ve
+
+14.Add multiples of "input1" till input2 and store in output1
+input1=3
+input2=15
+output1=45
+15.input1={12365,12396,12125,12256}
+input2=4(arraysize)
+input3=123(find this pattern in array and print next numbers in output array)
+output1={65,96}
+br:input1[i]<0 op=-1
+input2<0  op=-2
+16.sort array1 in ascd order,  array2 in desc order. Multipy 1st elmt in arr1 with last elmt in arr2  and so on. (criscross multiplication) and store in output1 array.
+17.extract the even digit
+ for eg: input:4512
+         output:42
+         input:1315
+         ouput:0
+18.find the diff between consecutive elements in array . assign the largest difference to the output
+   eg: ip={4,10,6,5,3}
+       op=6;(store the difference between consecutive elements in a seperate array)
+19.     Smallest of four digits.
+ 

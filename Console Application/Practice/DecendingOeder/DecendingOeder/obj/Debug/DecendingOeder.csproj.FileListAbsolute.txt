@@ -1,0 +1,6 @@
+E:\LICT\SadiaAssignment\DecendingOeder\DecendingOeder\bin\Debug\DecendingOeder.exe.config
+E:\LICT\SadiaAssignment\DecendingOeder\DecendingOeder\bin\Debug\DecendingOeder.exe
+E:\LICT\SadiaAssignment\DecendingOeder\DecendingOeder\bin\Debug\DecendingOeder.pdb
+E:\LICT\SadiaAssignment\DecendingOeder\DecendingOeder\obj\Debug\DecendingOeder.csprojResolveAssemblyReference.cache
+E:\LICT\SadiaAssignment\DecendingOeder\DecendingOeder\obj\Debug\DecendingOeder.exe
+E:\LICT\SadiaAssignment\DecendingOeder\DecendingOeder\obj\Debug\DecendingOeder.pdb
