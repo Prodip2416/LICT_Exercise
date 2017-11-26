@@ -1,0 +1,38 @@
+﻿ArrayList arr = new ArrayList();
+            arr.Add("Sunday");
+            arr.Add("Monday");
+            Console.WriteLine("**********Elements of ArrayList*************");
+            Console.WriteLine();
+            foreach (object obj in arr)
+            {
+                Console.WriteLine(obj);
+            }
+            Console.WriteLine();
+            Console.WriteLine("Capacity of the ArrayList is:" + arr.Capacity);
+            Console.WriteLine();
+            Console.WriteLine("//Adding Three more elements");
+            Console.WriteLine("**********Elements of ArrayList*************");
+            Console.WriteLine();
+            arr.Add("Tuesday");
+            arr.Add("Wednesday");
+            arr.Add("Thusday");
+            foreach (object obj in arr)
+            {
+                Console.WriteLine(obj);
+            }
+            Console.WriteLine();
+            Console.WriteLine("Now the Capacity is:" + arr.Capacity);
+            Console.WriteLine();
+            Console.WriteLine("//Adding Four more elements");
+            Console.WriteLine("**********Elements of ArrayList*************");
+            arr.Add("Friday");
+            arr.Add("Saturday");
+            arr.Add("Januray");
+            arr.Add("Feburay");
+            foreach (object obj in arr)
+            {
+                Console.WriteLine(obj);
+            }
+            Console.WriteLine();
+            Console.WriteLine("Now the Capacity is:" + arr.Capacity);
+        }
