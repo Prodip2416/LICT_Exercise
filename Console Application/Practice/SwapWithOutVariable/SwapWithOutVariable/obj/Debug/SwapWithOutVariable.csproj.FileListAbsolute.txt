@@ -1,0 +1,6 @@
+E:\LICT\SadiaAssignment\SwapWithOutVariable\SwapWithOutVariable\bin\Debug\SwapWithOutVariable.exe.config
+E:\LICT\SadiaAssignment\SwapWithOutVariable\SwapWithOutVariable\bin\Debug\SwapWithOutVariable.exe
+E:\LICT\SadiaAssignment\SwapWithOutVariable\SwapWithOutVariable\bin\Debug\SwapWithOutVariable.pdb
+E:\LICT\SadiaAssignment\SwapWithOutVariable\SwapWithOutVariable\obj\Debug\SwapWithOutVariable.csprojResolveAssemblyReference.cache
+E:\LICT\SadiaAssignment\SwapWithOutVariable\SwapWithOutVariable\obj\Debug\SwapWithOutVariable.exe
+E:\LICT\SadiaAssignment\SwapWithOutVariable\SwapWithOutVariable\obj\Debug\SwapWithOutVariable.pdb

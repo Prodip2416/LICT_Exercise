@@ -1,0 +1,6 @@
+E:\LICT\SadiaAssignment\VowelOrNot\VowelOrNot\bin\Debug\VowelOrNot.exe.config
+E:\LICT\SadiaAssignment\VowelOrNot\VowelOrNot\bin\Debug\VowelOrNot.exe
+E:\LICT\SadiaAssignment\VowelOrNot\VowelOrNot\bin\Debug\VowelOrNot.pdb
+E:\LICT\SadiaAssignment\VowelOrNot\VowelOrNot\obj\Debug\VowelOrNot.csprojResolveAssemblyReference.cache
+E:\LICT\SadiaAssignment\VowelOrNot\VowelOrNot\obj\Debug\VowelOrNot.exe
+E:\LICT\SadiaAssignment\VowelOrNot\VowelOrNot\obj\Debug\VowelOrNot.pdb

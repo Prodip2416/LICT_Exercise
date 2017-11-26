@@ -1,0 +1,5 @@
+E:\LICT\SadiaAssignment\TableOfNumber\TableOfNumber\bin\Debug\TableOfNumber.exe.config
+E:\LICT\SadiaAssignment\TableOfNumber\TableOfNumber\bin\Debug\TableOfNumber.exe
+E:\LICT\SadiaAssignment\TableOfNumber\TableOfNumber\bin\Debug\TableOfNumber.pdb
+E:\LICT\SadiaAssignment\TableOfNumber\TableOfNumber\obj\Debug\TableOfNumber.exe
+E:\LICT\SadiaAssignment\TableOfNumber\TableOfNumber\obj\Debug\TableOfNumber.pdb

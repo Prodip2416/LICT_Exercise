@@ -1,0 +1,5 @@
+E:\LICT\SadiaAssignment\VowelOrNotUsingSwitch\VowelOrNotUsingSwitch\bin\Debug\VowelOrNotUsingSwitch.exe.config
+E:\LICT\SadiaAssignment\VowelOrNotUsingSwitch\VowelOrNotUsingSwitch\bin\Debug\VowelOrNotUsingSwitch.exe
+E:\LICT\SadiaAssignment\VowelOrNotUsingSwitch\VowelOrNotUsingSwitch\bin\Debug\VowelOrNotUsingSwitch.pdb
+E:\LICT\SadiaAssignment\VowelOrNotUsingSwitch\VowelOrNotUsingSwitch\obj\Debug\VowelOrNotUsingSwitch.exe
+E:\LICT\SadiaAssignment\VowelOrNotUsingSwitch\VowelOrNotUsingSwitch\obj\Debug\VowelOrNotUsingSwitch.pdb
