@@ -1,0 +1,6 @@
+E:\LICT\Class_004\GenericExample\GenericExample\bin\Debug\GenericExample.exe.config
+E:\LICT\Class_004\GenericExample\GenericExample\bin\Debug\GenericExample.exe
+E:\LICT\Class_004\GenericExample\GenericExample\bin\Debug\GenericExample.pdb
+E:\LICT\Class_004\GenericExample\GenericExample\obj\Debug\GenericExample.csprojResolveAssemblyReference.cache
+E:\LICT\Class_004\GenericExample\GenericExample\obj\Debug\GenericExample.exe
+E:\LICT\Class_004\GenericExample\GenericExample\obj\Debug\GenericExample.pdb

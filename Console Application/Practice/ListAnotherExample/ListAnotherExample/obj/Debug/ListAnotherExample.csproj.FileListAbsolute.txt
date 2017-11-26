@@ -1,0 +1,6 @@
+E:\LICT\Exercise\Class_004\ListAnotherExample\ListAnotherExample\bin\Debug\ListAnotherExample.exe.config
+E:\LICT\Exercise\Class_004\ListAnotherExample\ListAnotherExample\bin\Debug\ListAnotherExample.exe
+E:\LICT\Exercise\Class_004\ListAnotherExample\ListAnotherExample\bin\Debug\ListAnotherExample.pdb
+E:\LICT\Exercise\Class_004\ListAnotherExample\ListAnotherExample\obj\Debug\ListAnotherExample.csprojResolveAssemblyReference.cache
+E:\LICT\Exercise\Class_004\ListAnotherExample\ListAnotherExample\obj\Debug\ListAnotherExample.exe
+E:\LICT\Exercise\Class_004\ListAnotherExample\ListAnotherExample\obj\Debug\ListAnotherExample.pdb
