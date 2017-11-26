@@ -1,0 +1,6 @@
+E:\LICT\Exercise\Class_005\Q!ueueExample\Q!ueueExample\bin\Debug\Q!ueueExample.exe.config
+E:\LICT\Exercise\Class_005\Q!ueueExample\Q!ueueExample\bin\Debug\Q!ueueExample.exe
+E:\LICT\Exercise\Class_005\Q!ueueExample\Q!ueueExample\bin\Debug\Q!ueueExample.pdb
+E:\LICT\Exercise\Class_005\Q!ueueExample\Q!ueueExample\obj\Debug\Q!ueueExample.csprojResolveAssemblyReference.cache
+E:\LICT\Exercise\Class_005\Q!ueueExample\Q!ueueExample\obj\Debug\Q!ueueExample.exe
+E:\LICT\Exercise\Class_005\Q!ueueExample\Q!ueueExample\obj\Debug\Q!ueueExample.pdb

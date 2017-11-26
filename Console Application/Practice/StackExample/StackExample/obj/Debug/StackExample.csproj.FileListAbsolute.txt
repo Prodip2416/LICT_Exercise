@@ -1,0 +1,6 @@
+E:\LICT\Exercise\Class_005\StackExample\StackExample\bin\Debug\StackExample.exe.config
+E:\LICT\Exercise\Class_005\StackExample\StackExample\bin\Debug\StackExample.exe
+E:\LICT\Exercise\Class_005\StackExample\StackExample\bin\Debug\StackExample.pdb
+E:\LICT\Exercise\Class_005\StackExample\StackExample\obj\Debug\StackExample.csprojResolveAssemblyReference.cache
+E:\LICT\Exercise\Class_005\StackExample\StackExample\obj\Debug\StackExample.exe
+E:\LICT\Exercise\Class_005\StackExample\StackExample\obj\Debug\StackExample.pdb
