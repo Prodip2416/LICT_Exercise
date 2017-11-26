@@ -1,0 +1,5 @@
+E:\LICT\Exercise\Class_004\ListExample\ListExample\bin\Debug\ListExample.exe.config
+E:\LICT\Exercise\Class_004\ListExample\ListExample\bin\Debug\ListExample.exe
+E:\LICT\Exercise\Class_004\ListExample\ListExample\bin\Debug\ListExample.pdb
+E:\LICT\Exercise\Class_004\ListExample\ListExample\obj\Debug\ListExample.exe
+E:\LICT\Exercise\Class_004\ListExample\ListExample\obj\Debug\ListExample.pdb

@@ -1,0 +1,15 @@
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\bin\Debug\MySweetCRUDApplication.exe.config
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\bin\Debug\MySweetCRUDApplication.exe
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\bin\Debug\MySweetCRUDApplication.pdb
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\obj\Debug\MySweetCRUDApplication.Main.resources
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\obj\Debug\MySweetCRUDApplication.Presentation.frmStudentEdit.resources
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\obj\Debug\MySweetCRUDApplication.Presentation.frmStudentNew.resources
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\obj\Debug\MySweetCRUDApplication.Presentation.frmTeacher.resources
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\obj\Debug\MySweetCRUDApplication.Presentation.frmStudent.resources
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\obj\Debug\MySweetCRUDApplication.Properties.Resources.resources
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\obj\Debug\MySweetCRUDApplication.csproj.GenerateResource.Cache
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\obj\Debug\MySweetCRUDApplication.exe
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\obj\Debug\MySweetCRUDApplication.pdb
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\obj\Debug\MySweetCRUDApplication.csprojResolveAssemblyReference.cache
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\obj\Debug\MySweetCRUDApplication.Presentation.frmTeacherNew.resources
+E:\LICT\Class_004\MySweetCRUDApplication\MySweetCRUDApplication\obj\Debug\MySweetCRUDApplication.Presentation.frmTeacherEdit.resources

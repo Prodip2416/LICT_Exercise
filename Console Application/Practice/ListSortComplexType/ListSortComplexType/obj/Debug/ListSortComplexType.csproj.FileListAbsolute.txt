@@ -1,0 +1,5 @@
+E:\LICT\Exercise\Class_004\ListSortComplexType\ListSortComplexType\bin\Debug\ListSortComplexType.exe.config
+E:\LICT\Exercise\Class_004\ListSortComplexType\ListSortComplexType\bin\Debug\ListSortComplexType.exe
+E:\LICT\Exercise\Class_004\ListSortComplexType\ListSortComplexType\bin\Debug\ListSortComplexType.pdb
+E:\LICT\Exercise\Class_004\ListSortComplexType\ListSortComplexType\obj\Debug\ListSortComplexType.exe
+E:\LICT\Exercise\Class_004\ListSortComplexType\ListSortComplexType\obj\Debug\ListSortComplexType.pdb
