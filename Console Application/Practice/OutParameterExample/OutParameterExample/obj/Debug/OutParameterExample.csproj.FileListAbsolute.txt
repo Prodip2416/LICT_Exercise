@@ -1,0 +1,6 @@
+E:\LICT\Exercise\OutParameterExample\OutParameterExample\bin\Debug\OutParameterExample.exe.config
+E:\LICT\Exercise\OutParameterExample\OutParameterExample\bin\Debug\OutParameterExample.exe
+E:\LICT\Exercise\OutParameterExample\OutParameterExample\bin\Debug\OutParameterExample.pdb
+E:\LICT\Exercise\OutParameterExample\OutParameterExample\obj\Debug\OutParameterExample.csprojResolveAssemblyReference.cache
+E:\LICT\Exercise\OutParameterExample\OutParameterExample\obj\Debug\OutParameterExample.exe
+E:\LICT\Exercise\OutParameterExample\OutParameterExample\obj\Debug\OutParameterExample.pdb
