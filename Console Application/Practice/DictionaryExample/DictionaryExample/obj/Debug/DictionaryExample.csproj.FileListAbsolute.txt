@@ -1,0 +1,6 @@
+E:\LICT\Exercise\Class_004\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+E:\LICT\Exercise\Class_004\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe
+E:\LICT\Exercise\Class_004\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.pdb
+E:\LICT\Exercise\Class_004\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csprojResolveAssemblyReference.cache
+E:\LICT\Exercise\Class_004\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.exe
+E:\LICT\Exercise\Class_004\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.pdb

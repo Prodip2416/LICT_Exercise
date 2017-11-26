@@ -1,0 +1,6 @@
+E:\LICT\Class_004\EnumValueGet\EnumValueGet\bin\Debug\EnumValueGet.exe.config
+E:\LICT\Class_004\EnumValueGet\EnumValueGet\bin\Debug\EnumValueGet.exe
+E:\LICT\Class_004\EnumValueGet\EnumValueGet\bin\Debug\EnumValueGet.pdb
+E:\LICT\Class_004\EnumValueGet\EnumValueGet\obj\Debug\EnumValueGet.csprojResolveAssemblyReference.cache
+E:\LICT\Class_004\EnumValueGet\EnumValueGet\obj\Debug\EnumValueGet.exe
+E:\LICT\Class_004\EnumValueGet\EnumValueGet\obj\Debug\EnumValueGet.pdb
