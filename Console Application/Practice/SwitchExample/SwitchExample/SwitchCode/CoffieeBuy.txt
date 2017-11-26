@@ -1,0 +1,37 @@
+﻿using System;
+
+namespace SwitchExample
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please Select Your Choice:");
+            Console.WriteLine("Coffee sizes: 1=Small 2=Medium 3=Large");
+            int switchCase = Convert.ToInt32(Console.ReadLine());
+            int cost = 0;
+
+            switch (switchCase)
+            {
+                case 1:
+                    cost += 25;
+                    break;
+                case 2:
+                    cost += 25;
+                    goto case 1;
+                case 3:
+                    cost += 50;
+                    goto case 1;
+                default:
+                    Console.WriteLine("Invalid selection. Please select 1, 2, or 3.");
+                    break;
+            }
+
+            if (cost > 0)
+            {
+                Console.WriteLine("Please insert {0} cents.", cost);
+            }
+            Console.WriteLine("Thank you for your business.");
+        }
+    }
+}

@@ -1,0 +1,6 @@
+E:\LICT\Exercise\Class_002\SwitchExample\SwitchExample\bin\Debug\SwitchExample.exe.config
+E:\LICT\Exercise\Class_002\SwitchExample\SwitchExample\bin\Debug\SwitchExample.exe
+E:\LICT\Exercise\Class_002\SwitchExample\SwitchExample\bin\Debug\SwitchExample.pdb
+E:\LICT\Exercise\Class_002\SwitchExample\SwitchExample\obj\Debug\SwitchExample.csprojResolveAssemblyReference.cache
+E:\LICT\Exercise\Class_002\SwitchExample\SwitchExample\obj\Debug\SwitchExample.exe
+E:\LICT\Exercise\Class_002\SwitchExample\SwitchExample\obj\Debug\SwitchExample.pdb

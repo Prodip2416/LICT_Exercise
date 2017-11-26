@@ -1,0 +1,31 @@
+﻿using System;
+
+namespace SwitchExample
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string str = "B";
+            switch (str)
+            {
+                case "A":
+                    Console.WriteLine("Case A");
+                    break;
+                case "B":
+                    Console.WriteLine("Case B");
+                    break;
+                case "C":
+                    Console.WriteLine("Case C");
+                    break;
+                case "D":
+                    Console.WriteLine("Case D");
+                    break;
+                default:
+                    Console.WriteLine("Defult Case");
+                    break;
+            }
+
+        }
+    }
+}
