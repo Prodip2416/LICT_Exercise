@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="BDJ_Web_Application_First.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+   <title>My Sweet Web Application</title>
+    <link href="CSS/MyStyle.css" rel="stylesheet" /> 
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+<form id="form1" runat="server">
+    <div class="header">
+            <img src="Images/bdjobs-logo.png" />
+            <div>
+                <h1>BDjobs Dot Net 08</h1>
+                <p>C#, WFA, Asp.Net, Asp.Net MVC, Web API, SQL Server</p>
+            </div>
+        </div>
+        <div class="main">
+            <div class="menu">
+                <a href="Default.aspx">Home</a>
+                <a href="Country.aspx">Country</a>
+                <a href="City.aspx">City</a>
+                <a href="#">About</a>
+                <a href="#">Contact</a>
+
+            </div>
+            <div class="content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    Main Pageeeeeeeee..............................................
+        </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <div class="footer">
+            <p>copyright @BDJobs.com <%: DateTime.Now.Year %> </p> 
+        </div>
+   
+      
+   
+</form>
+</body>
+</html>

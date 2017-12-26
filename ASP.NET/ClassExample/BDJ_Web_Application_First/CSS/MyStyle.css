@@ -1,0 +1,87 @@
+﻿* {
+    padding: 0px;
+    margin: 0px auto;
+}
+body {
+    background-color: rgba(0, 0, 0, 0.7);
+    font-family: arila;
+}
+
+.header {
+    background-color: maroon;
+    height: 120px;
+    overflow: hidden;
+    border-bottom: thin solid red;
+    color: white;
+    font-weight: bold;
+}
+
+.header img {
+        height: 110px;
+        float: left;
+        margin: 5px;
+}
+
+.header div {
+        width: 600px;
+        height: inherit;
+        float: left;
+}
+
+.footer {
+    background-color: maroon;
+    height: 60px;
+    overflow: hidden;
+    border-bottom: thin solid red;
+    color: white;
+    font-weight: bold;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    text-align: center;
+   
+}
+.footer p{
+     padding-top: 15px;
+}
+.main {
+    padding: 15px;
+    height: auto;
+    overflow: hidden;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.menu {
+    min-height: 300px;
+    float: left;
+    width: 25%;
+}
+.menu a {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.9);
+    display: block;
+    margin: 1px;
+    padding: 5px;
+    padding-left: 15px;
+}
+.menu a:hover {
+    background-color: white;
+   color: rgba(0, 0, 0, 0.9);
+    transform: rotate(360deg);
+    transition: ease-in-out 1s;
+}
+.content {
+     min-height: 300px;
+    float: right;
+    width: 70%;
+    height: auto;
+    overflow: hidden;
+}
+table {
+    min-width: 800px;
+    float: left;
+    margin: 5px;
+}
