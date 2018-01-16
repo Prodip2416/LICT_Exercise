@@ -1,0 +1,58 @@
+﻿//string [,]s= new string[4,3];
+
+          //  s[0, 0] = "Prodip";
+          //  s[0, 1] = "CSE";
+          //  s[0, 2] = "DIU";
+
+          //  s[1, 0] = "Tuhin";
+          //  s[1, 1] = "CSE";
+          //  s[1, 2] = "DIU";
+
+          //  s[2, 0] = "Akash";
+          //  s[2, 1] = "CSE";
+          //  s[2, 2] = "DIU";
+
+          //  s[3, 0] = "Joy";
+          //  s[3, 1] = "CSE";
+          //  s[3, 2] = "DIU";
+
+
+          //  for (int i = 0; i < 4; i++)
+          //  {
+          //      for (int j = 0; j < 3; j++)
+          //      {
+          //          Console.Write(s[i,j]+ "\t");
+          //      }
+          //      Console.WriteLine();
+          //  }
+
+
+
+            int [,]number1= new int[2,2];
+
+            number1[0, 0] = 3;
+            number1[0, 1] = 5;
+
+            number1[1, 0] = 4;
+            number1[1, 1] = 7;
+
+
+            int[,] number2 = new int[2, 2];
+
+            number2[0, 0] = 5;
+            number2[0, 1] = 7;
+
+            number2[1, 0] = 5;
+            number2[1, 1] = 9;
+
+            int [,] result=new int[2,2];
+
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 2; j++)
+                {
+                    result[i, j] = number1[i, j] + number2[i, j];
+                    Console.Write(result[i, j]+"\t");
+                }
+                Console.WriteLine();
+            }
