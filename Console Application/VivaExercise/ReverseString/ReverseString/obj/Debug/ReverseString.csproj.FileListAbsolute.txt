@@ -1,0 +1,6 @@
+C:\Users\Prodip\Desktop\New folder\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\Prodip\Desktop\New folder\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\Prodip\Desktop\New folder\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\Prodip\Desktop\New folder\ReverseString\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Prodip\Desktop\New folder\ReverseString\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\Prodip\Desktop\New folder\ReverseString\ReverseString\obj\Debug\ReverseString.pdb
