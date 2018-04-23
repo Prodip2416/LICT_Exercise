@@ -1,0 +1,9 @@
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\CRUDWithMySqlOOP\bin\Debug\CRUDWithMySqlOOP.exe.config
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\CRUDWithMySqlOOP\bin\Debug\CRUDWithMySqlOOP.exe
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\CRUDWithMySqlOOP\bin\Debug\CRUDWithMySqlOOP.pdb
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\CRUDWithMySqlOOP\obj\Debug\CRUDWithMySqlOOP.Form1.resources
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\CRUDWithMySqlOOP\obj\Debug\CRUDWithMySqlOOP.Properties.Resources.resources
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\CRUDWithMySqlOOP\obj\Debug\CRUDWithMySqlOOP.csproj.GenerateResource.Cache
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\CRUDWithMySqlOOP\obj\Debug\CRUDWithMySqlOOP.exe
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\CRUDWithMySqlOOP\obj\Debug\CRUDWithMySqlOOP.pdb
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\CRUDWithMySqlOOP\obj\Debug\CRUDWithMySqlOOP.csprojResolveAssemblyReference.cache

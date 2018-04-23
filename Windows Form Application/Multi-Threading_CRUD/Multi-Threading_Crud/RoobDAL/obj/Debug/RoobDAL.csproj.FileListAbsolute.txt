@@ -1,0 +1,5 @@
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\RoobDAL\bin\Debug\RoobDAL.dll
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\RoobDAL\bin\Debug\RoobDAL.pdb
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\RoobDAL\obj\Debug\RoobDAL.dll
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\RoobDAL\obj\Debug\RoobDAL.pdb
+H:\RoobNet\Roob-CRM\BasicCrud\c_201_Module\RoobDAL\obj\Debug\RoobDAL.csprojResolveAssemblyReference.cache
