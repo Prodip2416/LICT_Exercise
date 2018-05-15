@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8c8ead21087740e7bdc5c459e8708e44" Name="Diagram1">
+        <EntityTypeShape EntityType="bdjArticleModel.AddManager" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.article" Width="1.5" PointX="9.75" PointY="26.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.ArticleComment" Width="1.5" PointX="7.5" PointY="16.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.ArticleFile" Width="1.5" PointX="12" PointY="24.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.ArticleImage" Width="1.5" PointX="12" PointY="26.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.ArticleLike" Width="1.5" PointX="10.5" PointY="16.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.ArticleLink" Width="1.5" PointX="12" PointY="29.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.ArticlePublished" Width="1.5" PointX="10.5" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.ArticleVideo" Width="1.5" PointX="12" PointY="31.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.Category" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.City" Width="1.5" PointX="3" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.Country" Width="1.5" PointX="0.75" PointY="17" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.Gender" Width="1.5" PointX="3" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.LiveMessage" Width="1.5" PointX="7.5" PointY="21.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.Subscription" Width="1.5" PointX="5.25" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.SubscriptionType" Width="1.5" PointX="7.5" PointY="31" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.User" Width="1.5" PointX="5.25" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.UsersAdmin" Width="1.5" PointX="7.5" PointY="25.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.UsersAuthor" Width="1.5" PointX="7.5" PointY="27.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.UsersSubscription" Width="1.5" PointX="7.5" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjArticleModel.UsersVerified" Width="1.5" PointX="7.5" PointY="33.875" IsExpanded="true" />
+        <AssociationConnector Association="bdjArticleModel.FK__article__AuthorI__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__article__Subscri__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__ArticleCo__Artic__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__ArticleFi__Artic__5441852A" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__ArticleIm__Artic__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__ArticleLi__Artic__59FA5E80" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__ArticleLi__Artic__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__ArticlePu__Artic__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__ArticleVi__Artic__571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__ArticleCo__UserI__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__ArticleLi__UserI__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__ArticlePu__UserI__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__Category__catego__24927208" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__City__CountryId__2D27B809" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__Users__CityId__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__Users__GenderId__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__LiveMessa__Recei__66603565" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__LiveMessa__Sende__656C112C" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__UsersSubs__Subsc__693CA210" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__UsersAdmi__UserI__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__UsersAuth__UserI__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__UsersSubs__UserI__6A30C649" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK__UsersVeri__UserI__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjArticleModel.FK_article_Category" />
+        <EntityTypeShape EntityType="bdjArticleModel.vwArticlePublished" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="bdjArticleModel.vwArticleUnPublished" Width="1.5" PointX="2.75" PointY="4.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
