@@ -1,0 +1,80 @@
+﻿@model IEnumerable<BDJArticle15.Models.article>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Basic Info
+        </th>
+        <th>
+           Author Info
+        </th>
+        <th>
+            Article
+        </th>
+        <th>
+            Others Info
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            <b>@Html.DisplayFor(modelItem => item.title)</b><br />
+            <b>@Html.DisplayFor(modelItem => item.Tags)</b><br />
+            <p>@Html.DisplayFor(modelItem => item.Description)</p>
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dateTime)<br />
+            IP : @Html.DisplayFor(modelItem => item.IP)<br />
+            Author : @Html.DisplayFor(modelItem => item.UsersAuthor.User.Name)<br />
+            Type : @Html.DisplayFor(modelItem => item.SubscriptionType.Name)<br />
+           @if(item.ArticlePublished == null)
+           {
+               @Html.Raw("Not Published Yet")
+           }
+           else
+           {
+                @Html.Raw("Published on " + item.ArticlePublished.DateTime.ToString())
+           }
+            Category : @Html.DisplayFor(modelItem => item.Category.Name)
+        </td>
+        <td>
+            @{
+                string details = "";
+                try
+                {
+                    System.IO.StreamReader sr = new StreamReader(Server.MapPath("../AllArticles/" + item.title.ToLower().Trim().Replace(" ", "_")) + ".html");
+                    details = sr.ReadToEnd();
+                    sr.Close();
+                }
+                catch {
+                    System.IO.StreamReader sr = new StreamReader(Server.MapPath("AllArticles/" + item.title.ToLower().Trim().Replace(" ", "_")) + ".html");
+                    details = sr.ReadToEnd();
+                    sr.Close();
+                }
+                @Html.Raw(details.Replace("<[^>]*>", ""))
+            }
+        </td>
+        <td>
+            @item.ArticleComments.Count <br />
+            @item.ArticleLikes.Count <br />
+           
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

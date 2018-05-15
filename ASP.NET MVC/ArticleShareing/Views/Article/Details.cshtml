@@ -1,0 +1,154 @@
+﻿@model BDJArticle15.Models.article
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutPublic.cshtml";
+}
+
+<script type="text/javascript">
+
+    function changeImage(id)
+    {
+        document.getElementById("mainImage").setAttribute("src", document.getElementById(id).getAttribute("src"));
+    }
+
+</script>
+
+    <h4>article</h4>
+    <hr />
+<div class="container row">
+    <div class="col-md-4 row">
+        <div class="col-md-12">
+            @if (Model.ArticleImages.Count <= 0)
+            {
+                <img src = "../../uploads/noproductimage.png" width="300" />
+            }
+            else
+            {
+            <img id="mainImage" src="../../uploads/articleImages/@(Model.ArticleImages.First().id.ToString() + "_" + Model.ArticleImages.First().Image)" width="300" />
+            }
+        </div>
+        <div class="col-md-12">
+            @{
+                int i = 1;
+                foreach (var image in Model.ArticleImages)
+                {
+                    <img id="@("subImage" + i.ToString())" src="../../uploads/articleImages/@(image.id.ToString() + "_" + image.Image)" onclick="changeImage('@("subImage" + i.ToString())')" height="100" />
+                    i++;
+                }
+            }
+        </div>
+    </div>
+    <div class="col-md-8">
+
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.title)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.title)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Tags)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Tags)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.dateTime)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.dateTime)
+            </dd>
+
+
+
+            <dt>
+                @Html.DisplayNameFor(model => model.IP)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.IP)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.UsersAuthor.IP)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.UsersAuthor.IP)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.SubscriptionType.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.SubscriptionType.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ArticlePublished.IP)
+            </dt>
+            <dt>
+                @Html.DisplayNameFor(model => model.Category.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Category.Name)
+            </dd>
+
+        </dl>
+
+    </div>
+</div>
+
+<p>
+        @{
+            string details = "";
+            try
+            {
+                System.IO.StreamReader sr = new StreamReader(Server.MapPath("../../AllArticles/" + Model.title.ToLower().Trim().Replace(" ", "_")) + ".html");
+                details = sr.ReadToEnd();
+                sr.Close();
+            }
+            catch
+            {
+                
+            }
+            @Html.Raw(details.Replace("<[^>]*>", ""))
+        }
+</p>
+
+@if(Session["id"].ToString() != "")
+{
+    <form method="post" action="">
+        <textarea name="comments" class="form-control" id="comments"></textarea>
+        <input type="submit" name="submit" class="btn-default" value="Comment" />
+    </form>
+}
+<div class="container row">
+   @foreach (var comment in Model.ArticleComments)
+   {
+    <div class="col-md-2">
+        <b>@comment.User.Name</b><br />
+        @comment.DateTime
+    </div>
+    <div class="col-md-10">
+        @comment.Comments
+    </div>
+   }
+</div>

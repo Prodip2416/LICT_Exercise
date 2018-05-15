@@ -1,0 +1,40 @@
+﻿@model IEnumerable<BDJArticle15.Models.ArticleFile>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.file)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.article.title)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+
+            <a href="../uploads/articleFiles/@(item.id.ToString() + item.file)">@item.file</a> 
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.article.title)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>
