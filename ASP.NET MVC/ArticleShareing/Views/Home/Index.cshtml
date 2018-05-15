@@ -1,0 +1,36 @@
+﻿@model IEnumerable<BDJArticle15.Models.article>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPublic.cshtml";
+}
+
+<h2>All Article</h2>
+
+
+
+@foreach (var item in Model) {
+<div class="article">
+    <h2>@item.title</h2>
+    <div>
+        @if(item.ArticleImages.Count > 0)
+        {
+            <img src="~/uploads/articleImages/@(item.ArticleImages.First().id.ToString() + "_" + item.ArticleImages.First().Image)" />
+        }
+        <p>@item.Description 
+        
+        @if (item.SubscriptionType.Name.ToLower() == "free for all")
+        {
+        <br /> 
+        <a href="../Article/Details/@item.id"> ... Read More </a>
+        }
+        else
+        {
+            @Html.Raw("Need Subscription");
+        }
+        </p>
+    </div>
+    <span> Comments : @item.ArticleComments.Count, Like : @item.ArticleLikes.Count </span>
+</div>   
+}
+

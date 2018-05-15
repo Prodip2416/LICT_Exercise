@@ -1,0 +1,32 @@
+﻿@model IEnumerable<BDJArticle15.Models.LiveMessage>
+
+@{
+    ViewBag.Title = "MyMessage";
+    Layout = "~/Views/Shared/_LayoutPublic.cshtml";
+}
+
+<h2>MyMessage</h2>
+
+ <div class="container row">
+     <div class="col-md-3">
+         @foreach (var item in Model)
+         {
+            <b>
+                @item.User.Name - @item.User1.Name
+            </b><br />
+            <p>@item.DateTime</p>
+         }
+     </div>
+     <div class="col-md-9">
+         <div class="container">
+             @foreach (var item in Model)
+             {
+                 <p>@item.Message</p>
+             }
+         </div>
+
+         <div class="container">
+             
+         </div>
+     </div>
+ </div>

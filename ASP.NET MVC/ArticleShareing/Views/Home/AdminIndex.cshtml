@@ -1,0 +1,10 @@
+﻿@model IEnumerable<BDJArticle15.Models.article>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>All Article</h2>
+
+Total : Author : @(new BDJArticle15.Models.bdjArticleEntities().UsersAuthors.Count()) 

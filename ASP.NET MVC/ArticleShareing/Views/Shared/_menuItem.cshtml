@@ -1,0 +1,30 @@
+﻿@model IEnumerable<BDJArticle15.Models.Category>
+
+
+
+
+
+@foreach (var item in Model)
+{
+        if (item.Category1.Count > 0)
+        {
+            <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="../Article/Category/@item.id">
+                    @item.Name
+                    <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">
+                    @foreach (var item2 in item.Category1)
+                    {
+                        <li><a href="../Article/Category/@item2.id">@item2.Name</a></li>
+                    }
+                </ul>
+            </li>
+        }
+        else
+        {
+            <li>
+                <a href="../Article/Category/@item.id">@item.Name</a>
+            </li>
+        }
+}
